@@ -1,0 +1,12 @@
+crash-reports/
+local/
+logs/
+resourcepacks/
+screenshots/
+shaderpacks/
+options.txt
+usercache.json
+usernamecache.json
+minecraftinstance.json
+servers.dat
+servers.dat_old
